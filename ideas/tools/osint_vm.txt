@@ -1,0 +1,20 @@
+# Tools 
+
+- keepassxc
+
+## Social Media
+
+- Instalooter
+- Instaloader
+- toutatis
+- Osintgram -> gitrepo
+- social-scan
+- holehe
+- WhatsMyName -> Github
+- email2phonenumber -> github
+- EyeWitness -> Github
+- bdfr (bulk downloader for reddit)
+- tor
+- webscreenshot 
+- vscode
+- google earth

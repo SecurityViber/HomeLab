@@ -1,0 +1,25 @@
+# Tools 
+
+- 1password 
+- Terraform 
+- Ansible
+- Newest python version
+- gh
+- hstr
+- asciinema
+- rsync
+- tcpdump
+- parallel
+- nmap
+- netcat
+- azure-cli
+- nodejs
+- nmp
+- vlc
+- docker (here you need to figure out how to install it in general)
+- keepass
+- vscode
+
+
+
+

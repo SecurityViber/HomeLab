@@ -1,0 +1,17 @@
+# Tools 
+
+## Video
+- vlc
+- ffmpeg
+- youtube-dl
+- yt-dl
+- youtube-tool
+- streamlink
+
+## Images/Photos
+
+- gallery-dl
+- ripme -> github
+- sherlock -> github
+- mediainfo-gui
+- mat2

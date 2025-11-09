@@ -1,0 +1,18 @@
+# Tools 
+
+- git 
+- zsh (ohmyzsh)
+- fzf
+- htop
+- tldr
+- tmux
+- vim
+- colordiff
+- jq
+- curl
+- parallel
+- traceroute 
+- screen
+- mtr 
+- fastfetch
+- locate
